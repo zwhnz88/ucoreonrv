@@ -61,3 +61,6 @@
 
 ps:有任何错误指正/讨论请联系nkgongxl@gmail.com  
 
+补充资料 zhangzhen
+https://nankai.gitbook.io/ucore-os-on-risc-v64/
+
